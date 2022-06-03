@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Reiki ",
+    "desc": "Séance complète (1h30) : 60€<br/>Forfait 4 séances : 200€<br/>Séance à la demande (30mn) : 30€<br/><br/>Envie de faire plaisir à un proche ? <br/>des cartes cadeaux sont disponibles. <br/>Contactez-moi<br/>",
+    "icon": "service-branding.png"
+  },
+  {
+    "id": 2,
+    "title": "Reiki Enfants",
+    "desc": "Séance complète (à partir de 8 ans et jusque 16 ans - durée 60mn) : 45€<br/>Séance à la demande (jusque 16 ans - durée 20mn) : 20€<br/>Séance bébé (jusque 3 ans - durée 20 mn) : 15€<br/>",
+    "icon": "service-branding.png"
+  },
+  {
+    "id": 3,
+    "title": "Massage",
+    "desc": "Massage des 5 continents (1h20 environ) : 90€<br/>Forfait 3 massages : 240€<br/>Envie de faire plaisir à un proche ? <br/>des cartes cadeaux sont disponibles. <br/>Contactez-moi<br/>",
+    "icon": "service-branding.png"
+  },
+  {
+    "id": 4,
+    "title": "Modalités pratiques",
+    "desc": "Sur rendez-vous<br/>- le soir en semaine à votre domicile (Je me déplace gratuitement dans un rayon de 10km).<br/>- le samedi en cabinet. <br/> <span style=\"text-decoration: underline;\">Règlement par chèque ou espèces uniquement.</style><br/>",
+    "icon": "service-branding.png"
+  }
+]
