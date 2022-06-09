@@ -8,7 +8,7 @@ const Reiki = () => {
         <section className="pt-[80px] lg:pt-[100px] pb-[60px] lg:pb-[125px]" id="reiki">
             <div className="container">
                 <SectionTitle
-                    title="Le Reiki, pour qui ? pour quoi ?"
+                    title="Le Reiki, pour qui ? Pour quoi ?"
                     className="lg:hidden"
                 />
                 <div className="md:grid grid-cols-12 items-center">
@@ -16,7 +16,7 @@ const Reiki = () => {
                     <div className="col-span-6 sm:text-center md:text-left">
                         <div className="bio mt-5 sm:mt-10 md:mt-0">
                             <SectionTitle
-                                title="Le Reiki, pour qui ? pour quoi ?"
+                                title="Le Reiki, pour qui ? Pour quoi ?"
                                 className="hidden lg:block"
                             />
                             <div className="bio-text  text-justify" dangerouslySetInnerHTML={{ __html: reiki.why }} />

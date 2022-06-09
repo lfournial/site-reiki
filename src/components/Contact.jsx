@@ -15,7 +15,7 @@ const Contact = () => {
                     <div className="col-span-12 gap-10 flex justify-center">
                         <div className="text-base">
                             <BiMailSend className="inline text-dark-600 mr-2" />
-                            osoindesoin-rdv@gmail.com
+                            osoindesoi-rdv@gmail.com
                         </div>
                         <div>
                             <div className="text-base">
