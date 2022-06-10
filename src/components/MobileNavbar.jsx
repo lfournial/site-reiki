@@ -1,7 +1,7 @@
 import { Link } from "react-scroll";
 import navbar from "../data/navbar.json";
 
-const MobileNavbar = ({ className }) => {
+const MobileNavbar = ({ className, toggle }) => {
     return (
         <nav className={`bg-black overflow-hidden duration-300 sm:hidden ${className ?? ""}`}>
             <ul className="nav p-2">
@@ -12,6 +12,7 @@ const MobileNavbar = ({ className }) => {
                             smooth={true}
                             to={item.href}
                             data-hover={item.name.toLowerCase()}
+                            onClick={() => toggle(false)}
                             className={`block text-white font-medium text-sm relative cursor-pointer py-1 px-3 duration-400 hover:bg-white hover:text-dark`}
                         >
                             {item.name}
