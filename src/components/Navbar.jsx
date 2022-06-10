@@ -5,7 +5,8 @@ const Navbar = ({ className }) => {
     return (
         <nav className={`navbar hidden sm:block ${className ?? ""}`}>
             <ul className="nav flex space-x-10">
-                {navbar.map(item => (
+                {navbar.map((item, index) => (
+                   if (true){
                     <li key={item.id}>
                         <Link
                             spy={true}
@@ -18,6 +19,7 @@ const Navbar = ({ className }) => {
                             <span className="block duration-300">{item.name}</span>
                         </Link>
                     </li>
+                }
                 ))}
             </ul>
         </nav>
