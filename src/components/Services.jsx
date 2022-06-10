@@ -6,7 +6,7 @@ import { FiAlertCircle } from "react-icons/fi";
 
 const Services = () => {
     return (
-        <section className="service-area relative lg:pt-[100px] pb-[100px] lg:pb-[200px]" id="services">
+        <section className="service-area relative pt-[80px] lg:pt-[100px] pb-[100px] lg:pb-[200px]" id="services">
             <div className="container">
                 <SectionTitle
                     title="Prestations et tarifs"
