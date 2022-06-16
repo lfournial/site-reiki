@@ -35,6 +35,7 @@ const Massages = () => {
                            */}
                         <div className=" sm:text-center md:text-right">
                             <Image
+                                alt="Massage des 5 continents"
                                 width={350}
                                 height={470}
                                 className="rounded-md"

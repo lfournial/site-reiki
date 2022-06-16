@@ -29,6 +29,7 @@ const Reiki = () => {
        */}
                         <div className=" sm:text-center md:text-right">
                             <Image
+                                alt="Reiki"
                                 width={350}
                                 height={470}
                                 className="rounded-md"
