@@ -4,7 +4,7 @@ const Rokstar = ({ Component, pageProps }) => {
     return (
         <>
             <Head>
-                <meta name="description" content="O soin de soi, Virginie Fournial, praticienne en reiki et massage bien-être Seclin / Lille - Nord - France. " />
+                <meta name="description" content="Ô Soin de Soi, Virginie Fournial, Accompagnante au bien être par le Reiki et le massage énergétique à Seclin / Lille - Nord - France. " />
                 <title>Ô Soin de Soi</title>
 
             </Head>

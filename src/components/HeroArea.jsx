@@ -11,7 +11,7 @@ const HeroArea = () => {
         >
             <div className="container">
                 <div className="mt-8 font-light">
-                    <h1 className="font-light text-3xl sm:text-[45px] md:text-[55px] leading-none">Ô Soin de soi</h1>
+                    <h1 className="font-light text-3xl sm:text-[45px] md:text-[55px] leading-none">Ô Soin de Soi</h1>
                     <h2 className="font-light text-md sm:text-lg tracking-4 mt-2 sm:mt-4">Le Reiki au service du mieux-être !</h2>
                 </div>
             </div>

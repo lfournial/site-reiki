@@ -39,7 +39,7 @@ const AboutMe = () => {
                 </div>
                 <div className="bg-dark">
                     <p className="text-white mt-5 flex justify-center text-center content-center">
-                        Dans la vie, il n’y a pas de hasard : Uniquement des opportunités et des apprentissages.
+                        Rien n'est plus précieux que d'être Ô Soin de Soi.
                     </p>
                 </div>
             </div>

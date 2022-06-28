@@ -4,7 +4,7 @@ import SectionTitle from "./SectionTitle";
 
 const Massages = () => {
     return (
-        <section className="pt-[80px] lg:pt-[100px] pb-[60px] lg:pb-[125px]" id="massages">
+        <section className="pt-[80px] lg:pt-[100px] pb-[60px] lg:pb-[125px]" id="massage">
             <div className="container">
                 <SectionTitle
                     title="Massage des 5 continents"
