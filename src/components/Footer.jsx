@@ -1,12 +1,14 @@
 import Logo from "./Logo";
+import Link from 'next/link';
 import { animateScroll } from "react-scroll";
 import { MdConstruction } from "react-icons/md";
 import { AiFillHeart } from "react-icons/ai";
 import { IoIosArrowUp } from "react-icons/io";
+import { IoMdSchool } from "react-icons/io";
 
 const Footer = () => {
     return (
-        <footer className="bg-gray-50 pt-10 md:pt-14 lg:pt-5 pb-5 relative">
+        <footer className="bg-gray-50 pt-10 md:pt-15 lg:pt-5 pb-5 relative">
             <div className="container">
                 <div className="text-center lg:text-left lg:flex justify-between items-center">
                     <Logo variant="dark" />
@@ -14,9 +16,19 @@ const Footer = () => {
                     {/* Copyright */}
                     <p>
                         &copy; Virginie {new Date().getFullYear()}
-                        {/*<AiFillHeart className="inline text-dark-600" />*/}, <MdConstruction className="inline text-dark-600" />
+                    </p>
+                    <p>
+                        {/*<AiFillHeart className="inline text-dark-600" />*/} <MdConstruction className="inline text-dark-600" />
                         <a href="https://themeforest.net/item/rokstar-react-portfolio-template-using-nextjs/37432026">
                             Thème Rokstar </a>
+                    </p>
+                    <p>
+                        <IoMdSchool className="inline text-dark-600" />
+                        <Link href="/legal-page">
+                            <a target="_blank" rel="noopener noreferrer" className='link-item'>
+                                &nbsp;Mentions légales
+                            </a>
+                        </Link>
                     </p>
                     {/* <p>
                         &copy; Inpired by Rokstar {new Date().getFullYear()} theme, Made with <AiFillHeart

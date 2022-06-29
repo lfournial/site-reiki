@@ -12,13 +12,13 @@ const Contact = () => {
                 />
 
                 <div className="grid grid-cols-12 md:grid-cols-12">
-                    <div className="col-span-12 gap-10 flex justify-center">
-                        <div className="text-base">
+                    <div className="col-span-12 gap-10 justify-center">
+                        <div className="text-base pb-3">
                             <BiMailSend className="inline text-dark-600 mr-2" />
                             osoindesoi.rdv@gmail.com
                         </div>
                         <div>
-                            <div className="text-base">
+                            <div className="text-base pt-3">
                                 <FiSmartphone className="inline text-dark-600 mr-2" />
                                 +(33) 0765543936
                             </div>
