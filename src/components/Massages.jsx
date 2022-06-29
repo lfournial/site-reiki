@@ -21,7 +21,7 @@ const Massages = () => {
                             />
 
                             <div className="bio-text  text-justify">
-                                <p>Le massage des 5 continents apporte de par les techniques utilisées - issues de différentes cultures et techniques du monde, (Tuina, Lomi-lomi, Californien, Suédois…)   - un lâcher prise physique et mental permettant petit à petit de redonner grande confiance et une nouvelle vitalité, et surtout d'harmoniser les charges émotionnelles bloquant notre énergie. </p>
+                                <p>Le massage des 5 continents apporte de par les techniques utilisées - issues de différentes cultures et techniques du monde, (Tuina, Lomi-lomi, Californien, Suédois…)   - un lâcher-prise physique et mental permettant petit à petit de redonner grande confiance et une nouvelle vitalité, et surtout d'harmoniser les charges émotionnelles bloquant notre énergie. </p>
                                 <p>Ce massage, lent et profond, vous propose un merveilleux voyage pour en ressortir apaisé, serein et en harmonie avec vous-même. Votre énergie vitale est tonifiée et votre système immunitaire est stimulé. </p>
                                 <p>Les préparations avec des plantes utilisées en ayurvédiques et huiles essentielles dans ce soin sont réparties proportionnellement selon les critères des phases, on y retrouve : Arbres à Thé, citron, Eucalyptus, Lavande, Cyprès, Ravensare, Niaouli, Sarriette, Ylang-ylang, Romarin, Menthe poivrée, Orange, Géranium et Gingembre.</p>
                                 <p className="italic">Durée du soin : 1h20 environ</p>
