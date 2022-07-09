@@ -2,36 +2,43 @@
   {
     "id": 1,
     "name": "Accueil",
-    "href": "hero"
+    "href": "hero",
+    "href2": "/HeroArea"
   },
   {
     "id": 2,
     "name": "Qui suis-je ?",
-    "href": "about"
+    "href": "about",
+    "href2": "/About"
   },
   {
     "id": 3,
     "name": "Reiki",
-    "href": "reiki"
+    "href": "reiki",
+    "href2": "/Reiki"
   },
   {
     "id": 4,
     "name": "Reiki Enfants",
-    "href": "reikichildren"
+    "href": "reikichildren",
+    "href2": "/ReikiChildren"
   },
   {
     "id": 5,
     "name": "Massage",
-    "href": "massage"
+    "href": "massage",
+    "href2": "/Massages"
   },
   {
     "id": 6,
     "name": "Prestations",
-    "href": "services"
+    "href": "services",
+    "href2": "/Services"
   },
   {
     "id": 7,
     "name": "Contact",
-    "href": "contact"
+    "href": "contact",
+    "href2": "/Contact"
   }
 ]
