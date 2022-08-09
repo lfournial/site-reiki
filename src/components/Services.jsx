@@ -18,12 +18,12 @@ const Services = () => {
                         className="hidden lg:block"
                     />
 
-                    <div className="text-base text-white bg-red-400 px-2 mb-5">
+                    <div className="text-base text-white bg-dark px-2 mb-5">
                         <FiAlertCircle className="inline text-dark-600 mr-2" />
                         Les séances proposées ne remplacent pas un avis médical. Aucun avis médical ne sera donné lors des séances.
                         Ces techniques sont complémentaires à la médecine allopathique, mais ne remplacent en aucun cas les traitements.
                         <br />
-                        Les soins proposés sont en outre  dénués de toutes connotations érotiques et sexuelles.
+                        Les soins proposés sont en outre dénués de toutes connotations érotiques et sexuelles.
                         <FiAlertCircle className="inline text-dark-600 ml-2" />
                     </div>
                     <div className="md:grid md:grid-cols-3" >
