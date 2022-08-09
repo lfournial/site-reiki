@@ -23,13 +23,14 @@ const Contact = () => {
                                 +(33) 0765543936
                             </div>
                         </div>
-                        {/*<div>
-                            <div className="text-base">
-                                <a target="_blank" href="https://www.facebook.com/virginie.fournial.3" ><BsFacebook className="inline text-dark-600 mr-2" /></a>
+                        <div>
+                            <div className="text-base pt-6">
+                                <a target="_blank" href="https://www.facebook.com/osoindesoiseclin" >
+                                    <BsFacebook className="inline text-dark-600 mr-2" />
+                                    Retrouvez moi sur Facebook
+                                </a>
                             </div>
                         </div>
-    */}
-
                     </div>
                 </div>
             </div>
