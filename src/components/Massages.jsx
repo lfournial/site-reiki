@@ -1,13 +1,14 @@
 import Image from "next/image";
 import massages from "../data/massages.json";
 import SectionTitle from "./SectionTitle";
+import Link from 'next/link';
 
 const Massages = () => {
     return (
-        <section className="pt-[80px] lg:pt-[100px] pb-[60px] lg:pb-[125px]" id="massage">
+        <section className="pt-[80px] lg:pt-[100px] pb-[60px] lg:pb-[125px]" id="massages">
             <div className="container">
                 <SectionTitle
-                    title="Massage des 5 continents"
+                    title="Massages"
                     className="lg:hidden"
                 />
 
@@ -16,16 +17,72 @@ const Massages = () => {
                     <div className="col-span-6 sm:text-center md:text-left">
                         <div className="bio mt-5 sm:mt-10 md:mt-0">
                             <SectionTitle
-                                title="Massage des 5 continents "
+                                title="Massages"
                                 className="hidden lg:block"
                             />
-
                             <div className="bio-text  text-justify">
-                                <p>Le massage des 5 continents apporte de par les techniques utilisées - issues de différentes cultures et techniques du monde, (Tuina, Lomi-lomi, Californien, Suédois…)   - un lâcher-prise physique et mental permettant petit à petit de redonner grande confiance et une nouvelle vitalité, et surtout d'harmoniser les charges émotionnelles bloquant notre énergie. </p>
-                                <p>Ce massage, lent et profond, vous propose un merveilleux voyage pour en ressortir apaisé, serein et en harmonie avec vous-même. Votre énergie vitale est tonifiée et votre système immunitaire est stimulé. </p>
-                                <p>Les préparations avec des plantes utilisées en ayurvédiques et huiles essentielles dans ce soin sont réparties proportionnellement selon les critères des phases, on y retrouve : Arbres à Thé, citron, Eucalyptus, Lavande, Cyprès, Ravensare, Niaouli, Sarriette, Ylang-ylang, Romarin, Menthe poivrée, Orange, Géranium et Gingembre.</p>
-                                <p className="italic">Durée du soin : 1h20 environ</p>
-                                <p><span className="underline">Contre-indication</span> : Ce <span className="font-bold">massage</span> n'est pas recommandé aux femmes enceintes ou allaitantes, aux personnes épileptiques, pour les personnes atteintes d'un cancer hormono-dépendant, ainsi que les personnes suivant un traitement homéopathique, les hypersensibles et enfants de moins de 6 ans.</p>
+                                Les massages énergétiques que je vous proposent s’appuient sur le modelage du corps par les
+                                mains et sur la mobilisation de l’énergie Reiki. Ils sont destinés à soulager les douleurs,
+                                permettre le rééquilibrage des énergies et le retour au bien-être.
+                                <br /> <br />
+                                <span className="italic underline">Différents massages vous sont proposés</span> :
+                                <br /><br />
+                                Si vous recherchez un massage lent et profond, mais aussi doux et enveloppant, invitant au
+                                voyage, alors le
+                                <span className="font-bold"> massage des 5 continents</span> - un petit bijou - est fait pour vous ;
+
+                                <div className="md:flex justify-center ">
+                                    <Link href="/massages#M5C">
+                                        <a target="_blank" rel="noopener noreferrer" className="underline">
+                                            &nbsp;En savoir plus
+                                        </a>
+                                    </Link>
+                                </div>
+                                <br />
+                                Si vous souhaitez un massage sans protocole, ou seul l’instant présent compte, optez plutôt
+                                pour le  <span className="font-bold"> massage intuitif Ukiyo</span> ;
+                                <div className="md:flex justify-center ">
+                                    <Link href="/massages#Ukiyo">
+                                        <a target="_blank" rel="noopener noreferrer" className="underline">
+                                            &nbsp;En savoir plus
+                                        </a>
+                                    </Link>
+                                </div>
+                                <br />
+                                Si vous souhaitez vivre un massage sonore, combinant vibrations et énergie, alors choisissez
+                                plutôt le <span className="font-bold"> Vapa Kaia Energy</span>.
+                                <div className="md:flex justify-center ">
+                                    <Link href="/massages#VapaKaia">
+                                        <a target="_blank" rel="noopener noreferrer" className="underline">
+                                            &nbsp;En savoir plus
+                                        </a>
+                                    </Link>
+                                </div>
+                                <br />
+                                Si vous ne souhaitez pas un massage de l’ensemble du corps, vous avez la possibilité de
+                                choisir un  <span className="font-bold"> massage énergétique du dos</span>
+                                <div className="md:flex justify-center ">
+                                    <Link href="/massages#MED">
+                                        <a target="_blank" rel="noopener noreferrer" className="underline">
+                                            &nbsp;En savoir plus
+                                        </a>
+                                    </Link>
+                                </div>
+                                <br />
+                                Les massages énergétiques sont contre indiqués dans les situations suivantes :
+                                <ul>
+                                    <li>- Femme enceinte ou allaitantes ;</li>
+                                    <li>- Juste après un coup de soleil ;</li>
+                                    <li>- En cas de pathologies lourdes et/ou traitements invasif.</li>
+                                </ul> <br />
+                                Dans les situations suivantes, un massage énergétique est possible en adaptant les huiles
+                                utilisées :
+                                <ul>
+                                    <li>- Allergies à certaines huiles vierges ou essentielles (m'&#39;'en informer avant le massage afin que
+                                        je puisse vous proposer une alternative si possible) ;</li>
+                                    <li>- Traitement homéopathique lourd ;</li>
+                                    <li>- Enfants de moins de 6 ans.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>

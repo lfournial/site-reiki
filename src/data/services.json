@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Reiki ",
-    "desc": "Séance complète (durée 60mn) : 50€ <br/>Forfait 4 séances : 170€<br/>Séance à la demande (30mn) : 30€<br/>Envie de faire plaisir à un proche ? <br/>Des cartes cadeaux sont disponibles. <br/>Contactez-moi<br/>",
+    "desc": "Séance complète (durée 60mn) : 50€ <br/>Forfait 4 séances : 170€<br/>Séance à la demande (30mn) : 30€<br/>",
     "icon": "service-branding.png"
   },
   {
@@ -13,12 +13,36 @@
   },
   {
     "id": 3,
-    "title": "Massage",
-    "desc": "Massage des 5 continents (1h20 environ) : 80€<br/>Forfait 3 massages : 200€<br/>Envie de faire plaisir à un proche ? <br/>Des cartes cadeaux sont disponibles. <br/>Contactez-moi<br/>",
+    "title": "Massage des 5 continents",
+    "desc": "La durée du soin est de 1h20 environ : 80€<br/>Forfait 3 massages : 200€<br/>",
     "icon": "service-branding.png"
   },
   {
     "id": 4,
+    "title": "Ukiyo",
+    "desc": "La durée du soin est de 60mn environ (prévoir 1h30): 80€",
+    "icon": "service-branding.png"
+  },
+  {
+    "id": 5,
+    "title": "Vapa Kaìa",
+    "desc": "La durée du soin est de 45mn environ (prévoir 1h15): 65€",
+    "icon": "service-branding.png"
+  },
+  {
+    "id": 6,
+    "title": "Massage énergétique du dos",
+    "desc": "La durée du soin est de 40mn environ (prévoir 1h00): 45€",
+    "icon": "service-branding.png"
+  },
+  {
+    "id": 8,
+    "title": "Cartes cadeau",
+    "desc": "Envie de faire plaisir à un proche ? <br/>Des cartes cadeaux sont disponibles. <br/>Contactez-moi<br/>",
+    "icon": "Icon-Geschenk.png"
+  },
+  {
+    "id": 9,
     "title": "Modalités pratiques",
     "desc": "Sur rendez-vous : <br/>- En soirée, la semaine à votre domicile (Je me déplace gratuitement dans un rayon de 10km).<br/>- Le samedi, en cabinet à Seclin. <br/> <span style=\"text-decoration: underline;\">Règlement par espèces, paylib ou carte bancaire.</style><br/>",
     "icon": "service-illustrator.png"
