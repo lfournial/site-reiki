@@ -34,11 +34,10 @@ const Reiki = () => {
                                 </p>
                                 <p>Pendant la durée de la séance, vous êtes allongé tout en étant habillé, et un plaid vous est proposé pour vous permettre de vous offrir un moment cocooning.</p>
                                 <p>Être allongé.e vous angoisse ? la séance peut également se faire en position assise.</p>
-
-                                <p>Je propose également des séance d'Intervention Psycho-Energétique – IPE (durée 2h)</p>
+                                <br />
+                                <p>Je propose également des séance d'<b>Intervention Psycho-Energétique</b> – IPE (durée 2h)</p>
                                 <p>L'IPE est une technique qui s'emploie aussi bien pour des problèmes d'ordre physiques que non physiques.</p>
                                 <p>Elle permet de libérer l'énergie négative qui s'accumule et se manifeste au niveau de notre corps. A travers cette technique, c'est la cause des maux qui est ciblée, afin d'aller vers une amélioration profonde et dans la durée. </p>
-                                <br />
                                 <p>
                                     L'IPE est suivie d'une séance complète de Reiki. <br />
                                     Tarif : 80€
