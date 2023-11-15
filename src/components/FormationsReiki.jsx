@@ -90,7 +90,7 @@ const FormationsReiki = () => {
                                 width={350}
                                 height={470}
                                 className="rounded-md"
-                                src={`/images/${reiki.thumb}`}
+                                src={`/images/formations.png`}
                             />
                         </div>
                     </div>

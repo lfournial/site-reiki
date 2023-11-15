@@ -47,7 +47,7 @@ const Massages = () => {
                     </h1>
                     <p className="mt-10 text-justify">
                         Ce massage propose des sensations différentes des massages habituels. Grâce aux différentes techniques utilisées et aux baguettes Kansa, vous vivrez  une expérience unique – Libératrice.<br />
-                        Les baguette Kanza, permettent une libération des toxines et un lâcher prise très puissant, l'oxygénation et la circulation sanguine, régule le système nerveux, améiore les défenses immunitaire...<br />
+                        Les baguette Kansa, permettent une libération des toxines et un lâcher prise très puissant, l'oxygénation et la circulation sanguine, régule le système nerveux, améliore les défenses immunitaires...<br />
                         L'huile de massage composée de plusieurs huiles végétales et d'huiles essentielles, est une invitation au lâcher-prise.
                         <br />
                         <span className="italic">La durée est de 1h40 environ - 90€..</span>

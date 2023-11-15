@@ -19,7 +19,7 @@ const MassagesSonores = () => {
                             width={350}
                             height={470}
                             className="rounded-md"
-                            src={`/images/${massages.thumb}`}
+                            src={`/images/cristaux.jpg`}
                         />
                     </div>
                 </div>

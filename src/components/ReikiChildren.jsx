@@ -19,7 +19,7 @@ const ReikiChildren = () => {
                                 width={350}
                                 height={470}
                                 className="rounded-md"
-                                src={`/images/${reikichildren.thumb}`}
+                                src={`/images/enfant.jpg`}
                             />
                         </div>
                     </div>
