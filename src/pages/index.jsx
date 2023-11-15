@@ -8,8 +8,10 @@ import Services from "../components/Services";
 import Preloader from "../components/Preloader";
 import Portfolios from "../components/Portfolios";
 import Reiki from "../components/Reiki";
-import Massages from "../components/Massages";
+import MassagesCorps from "../components/MassagesCorps";
+import MassagesSonores from "../components/MassagesSonores";
 import ReikiChildren from "../components/ReikiChildren";
+import FormationsReiki from "../components/FormationsReiki";
 
 const Home = () => {
     const [preloaded, setPreloaded] = useState(false);
@@ -28,7 +30,9 @@ const Home = () => {
             <AboutMe />
             <Reiki />
             <ReikiChildren />
-            <Massages />
+            <MassagesCorps />
+            <MassagesSonores />
+            <FormationsReiki />
             <Services />
             <Contact />
             <Footer />

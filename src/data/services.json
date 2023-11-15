@@ -19,20 +19,26 @@
   },
   {
     "id": 4,
-    "title": "Ukiyo",
-    "desc": "La durée du soin est de 60mn environ (prévoir 1h30): 80€",
+    "title": "Shinzu Body",
+    "desc": "La durée est de 1h40 environ: 90€",
     "icon": "service-branding.png"
   },
   {
     "id": 5,
-    "title": "Vapa Kaìa",
-    "desc": "La durée du soin est de 45mn environ (prévoir 1h15): 65€",
+    "title": "Ukiyo",
+    "desc": "La durée du soin est de 60mn environ (prévoir 1h30): 80€",
     "icon": "service-branding.png"
   },
   {
     "id": 6,
     "title": "Massage énergétique du dos",
     "desc": "La durée du soin est de 40mn environ (prévoir 1h00): 45€",
+    "icon": "service-branding.png"
+  },
+  {
+    "id": 7,
+    "title": "Vapa Kaìa",
+    "desc": "La durée du soin est de 45mn environ (prévoir 1h15): 65€",
     "icon": "service-branding.png"
   },
   {

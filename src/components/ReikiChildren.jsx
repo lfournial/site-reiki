@@ -30,7 +30,26 @@ const ReikiChildren = () => {
                                 title="Le Reiki pour les enfants"
                                 className="hidden lg:block"
                             />
-                            <div className="bio-text text-justify" dangerouslySetInnerHTML={{ __html: reikichildren.why }} />
+                            <div className="bio-text text-justify">
+                                <p>De par leur sensibilité, les enfants sont encore plus réceptifs au reiki que les adultes, tout simplement car ils
+                                    ne sont pas encore dans la réflexion ou l’analyse comme peuvent l’être les grands.</p>
+                                <p>Le Reiki peut être proposé à chaque âge et dès la naissance.</p>
+                                <p>Il permet d'agir :
+                                    <ul className="pl-5">
+                                        <li>- sur les petits bobos du quotidien : coupure, brûlure, chute …</li>
+                                        <li>- sur les maux des bébés : régurgitations, agitation …</li>
+                                    </ul>
+                                </p>
+                                <p>Il peut être un complément en réponse aux enfants :
+                                    <ul className="pl-5">
+                                        <li> - très actifs et agités afin de leur permettre de calmer l’agitation mentale qui les secoue et les fatigue tout au long de la journée ;</li>
+                                        <li>- rencontrant des problématiques de sommeil, des crises d’angoisse, des peurs …</li>
+                                        <li>- devant subir une intervention chirurgicale ...</li>
+                                    </ul>
+                                </p>
+                                <p> <br />Les possibilités sont multiples !</p>
+                                <p>Le déroulé de la séance de Reiki est adapté à l’enfant (durée et modalité) afin qu’il la vive de la manière la plus sereine possible. </p>
+                            </div>
                         </div>
                     </div>
                 </div>

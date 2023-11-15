@@ -24,8 +24,7 @@ const Reiki = () => {
                                 <p>Le praticien transmet de manière consciente et bienveillante l'énergie Reiki à l'organisme qui va l'utiliser et mettre en place ses mécanismes d'auto-régulation. </p>
                                 <p>Le Reiki agit ainsi directement sur les causes de chaque maux et en agissant au niveau physique, mental et émotionnel. Il aide à soulager les douleurs et à éliminer les toxines du corps.</p>
                                 <p>Exemples de troubles pouvant être accompagnés :
-
-                                    <ul>
+                                    <ul className="pl-5">
                                         <li>- Les problèmes de sommeil ;</li>
                                         <li>- Le stress ;</li>
                                         <li>- La gestion des émotions ;</li>

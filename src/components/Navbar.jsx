@@ -4,7 +4,7 @@ import navbar from "../data/navbar.json";
 const Navbar = ({ className }) => {
     return (
         <nav className={`navbar hidden sm:block ${className ?? ""}`}>
-            <ul className="nav flex space-x-10">
+            <ul className="nav flex space-x-6">
                 {navbar.map((item, index) => (
                     <li key={item.id}>
                         <Link

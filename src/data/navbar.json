@@ -25,18 +25,30 @@
   },
   {
     "id": 5,
-    "name": "Massages",
-    "href": "massages",
-    "href2": "/Massages"
+    "name": "Massages du corps",
+    "href": "massagescorps",
+    "href2": "/MassagesCorps "
   },
   {
     "id": 6,
+    "name": "Massages sonores",
+    "href": "massagessonores",
+    "href2": "/MassagesSonores "
+  },
+  {
+    "id": 7,
+    "name": "Formations",
+    "href": "formationsreiki",
+    "href2": "/FormationsReiki"
+  },
+  {
+    "id": 8,
     "name": "Prestations",
     "href": "services",
     "href2": "/Services"
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Contact",
     "href": "contact",
     "href2": "/Contact"

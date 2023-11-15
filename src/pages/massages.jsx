@@ -25,6 +25,10 @@ const Massages = () => {
             </section>
             <section className="pt-[80px] lg:pt-[100px] pb-[60px] lg:pb-[125px]" id="about">
                 <div className="container">
+                    <a id="M5C"></a>
+                    <h1 className="text-4xl font-heading italic tracking-normal text-gray-600">
+                        Massages du corps
+                    </h1><br /><br />
                     <h1 className="text-3xl font-heading tracking-normal text-dark pb-4 relative before:absolute before:left-0 before:bottom-0 before:h-[5px] before:w-[55px] before:bg-dark after:absolute after:left-0 after:bottom-[2px] after:h-[1px] after:w-[255px] after:bg-dark">
                         Massage des 5 continents
                     </h1>
@@ -35,6 +39,18 @@ const Massages = () => {
                         <br />
                         <span className="italic">La durée du soin est de 1h20 environ - 80€.
                             <br /> Forfait 3 massages : 200€</span>
+                    </p>
+                    <br />
+                    <a id="Shinzu"></a>
+                    <h1 className="text-3xl font-heading tracking-normal text-dark pb-4 relative before:absolute before:left-0 before:bottom-0 before:h-[5px] before:w-[55px] before:bg-dark after:absolute after:left-0 after:bottom-[2px] after:h-[1px] after:w-[255px] after:bg-dark">
+                        Shinzu Body
+                    </h1>
+                    <p className="mt-10 text-justify">
+                        Ce massage propose des sensations différentes des massages habituels. Grâce aux différentes techniques utilisées et aux baguettes Kansa, vous vivrez  une expérience unique – Libératrice.<br />
+                        Les baguette Kanza, permettent une libération des toxines et un lâcher prise très puissant, l'oxygénation et la circulation sanguine, régule le système nerveux, améiore les défenses immunitaire...<br />
+                        L'huile de massage composée de plusieurs huiles végétales et d'huiles essentielles, est une invitation au lâcher-prise.
+                        <br />
+                        <span className="italic">La durée est de 1h40 environ - 90€..</span>
                     </p>
                     <br />
                     <a id="Ukiyo"></a>
@@ -50,6 +66,29 @@ const Massages = () => {
                         <span className="italic">La durée du soin est de 60mn environ (prévoir 1h30). 80€</span>
                     </p>
                     <br />
+
+                    <a id="MED"></a>
+                    <h1 className="text-3xl font-heading tracking-normal text-dark pb-4 relative before:absolute before:left-0 before:bottom-0 before:h-[5px] before:w-[55px] before:bg-dark after:absolute after:left-0 after:bottom-[2px] after:h-[1px] after:w-[255px] after:bg-dark">
+                        Massage énergétique du dos
+                    </h1>
+                    <p className="mt-10 text-justify">
+
+                        Le <span className="font-semibold">massage énergétique du dos</span> s’inspire des techniques de massages utilisées dans les 5 continents, et fait appel à l’énergie
+                        du Reiki. Il vous apportera du bien-être, de la détente, de la relaxation et vous aidera à aller vers le lâcher-prise.
+                        <br />
+                        Vous avez peu de temps ?
+                        <br />
+                        Vous souhaitez voir à quoi ressemble un massage énergétique ? Celui-ci est une belle initiation, il est fait pour vous.
+                        <br />
+                        <span className="italic">La durée du soin est de 40mn environ (prévoir 1h00). 45€</span>
+                    </p>
+                    <br />
+                </div>
+                <br />
+                <div className="container">
+                    <h1 className="text-4xl font-heading italic tracking-normal text-gray-600">
+                        Massages sonores
+                    </h1><br /><br />
                     <a id="VapaKaia"></a>
                     <h1 className="text-3xl font-heading tracking-normal text-dark pb-4 relative before:absolute before:left-0 before:bottom-0 before:h-[5px] before:w-[55px] before:bg-dark after:absolute after:left-0 after:bottom-[2px] after:h-[1px] after:w-[255px] after:bg-dark">
                         Vapa Kaìa Energy
@@ -66,22 +105,6 @@ const Massages = () => {
                         La seule manière de découvrir ce soin énergétique et sonore très complet, rempli de douceur,
                         c’est de le vivre !<br />
                         <span className="italic">La durée du soin est de 45mn environ (prévoir 1h15). 65€</span>
-                    </p>
-                    <br />
-                    <a id="MED"></a>
-                    <h1 className="text-3xl font-heading tracking-normal text-dark pb-4 relative before:absolute before:left-0 before:bottom-0 before:h-[5px] before:w-[55px] before:bg-dark after:absolute after:left-0 after:bottom-[2px] after:h-[1px] after:w-[255px] after:bg-dark">
-                        Massage énergétique du dos
-                    </h1>
-                    <p className="mt-10 text-justify">
-
-                        Le <span className="font-semibold">massage énergétique du dos</span> s’inspire des techniques de massages utilisées dans les 5 continents, et fait appel à l’énergie
-                        du Reiki. Il vous apportera du bien-être, de la détente, de la relaxation et vous aidera à aller vers le lâcher-prise.
-                        <br />
-                        Vous avez peu de temps ?
-                        <br />
-                        Vous souhaitez voir à quoi ressemble un massage énergétique ? Celui-ci est une belle initiation, il est fait pour vous.
-                        <br />
-                        <span className="italic">La durée du soin est de 40mn environ (prévoir 1h00). 45€</span>
                     </p>
                     <br />
                 </div>
