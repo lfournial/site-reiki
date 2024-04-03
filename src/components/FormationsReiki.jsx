@@ -36,9 +36,8 @@ const FormationsReiki = () => {
                                         <li>– Les techniques japonaises de Reiki </li>
                                     </ul>
                                 </p>
-                                <p><b>Participation:</b> 200 €  – <b>jeunes accompagnés (15 à 18 ans)</b> : 115 €</p>
-                                <p><b>Des sessions sont organisées pour les enfants de 10 à 14 ans.</b> </p>
-                                <p>Tarifs pour les enfants accompagnés (10 à 14 ans) : 80 €</p>
+                                <p><b>Participation:</b> 220 €  – <b>jeunes accompagnés (15 à 18 ans)</b> : 120 €</p>
+                                <p>Tarifs pour les enfants accompagnés : 120 €</p>
                                 <p><b>Retrouvez la programmation sur ma page facebook</b></p>
                                 <br />
                                 <h1 className="text-2xl font-heading underline tracking-normal text-gray-700" >
@@ -54,7 +53,7 @@ const FormationsReiki = () => {
                                         <li>– Utilisation des symboles dans  l’autotraitement et dans le traitement pour une autre personne...</li>
                                         <li>– Les initiations du deuxième degré</li>
                                         <li>– Les techniques japonaises de Réiki du 2ème degré </li>
-                                        <li><b>Participation </b>:300 €</li>
+                                        <li><b>Participation </b>:330 €</li>
                                         <li>Pré-requis : avoir suivi le Reiki 1. La copie de votre certificat vous sera demandée.</li>
                                     </ul>
                                 </p>
