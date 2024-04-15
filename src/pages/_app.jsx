@@ -9,7 +9,7 @@ const Rokstar = ({ Component, pageProps }) => {
                 <title>Virginie Fournial, Accompagnante au bien être par le Reiki et le massage bien-être à Seclin / Lille - Ô Soin de Soi</title>
                 <link rel="icon" href="/favicon.ico" />
                 <meta property="og:title" content="Reiki - Massage bien être et formation au Reiki - Seclin près de Lille Nord de la France - Virginie Fournial, acccompagnante au bien être" />
-                <meta property="og:description" content="Formation et séances de Reiki - Massage bien-être - Seclin près de Lille  Nord de la France - Virginie Fournial, accompagnante au bien être" />
+                <meta property="og:description" content="Formation et séances de Reiki - Massage bien-être - Seclin près de Lille Nord de la France - Virginie Fournial, accompagnante au bien être" />
                 <meta property="og:url" content="https://www.osoin-desoi.fr" />
                 <meta property="og:type" content="website" />
             </Head>
