@@ -1,7 +1,7 @@
 import SectionTitle from "./SectionTitle";
 import { BiMailSend } from "react-icons/bi";
 import { FiSmartphone } from "react-icons/fi";
-import { BsFacebook } from "react-icons/bs";
+import { BsFacebook, BsInstagram } from "react-icons/bs";
 
 const Contact = () => {
     return (
@@ -28,6 +28,14 @@ const Contact = () => {
                                 <a target="_blank" href="https://www.facebook.com/osoindesoiseclin" >
                                     <BsFacebook className="inline text-dark-600 mr-2" />
                                     Retrouvez moi sur Facebook
+                                </a>
+                            </div>
+                        </div>
+                        <div>
+                            <div className="text-base pt-6">
+                                <a target="_blank" href="https://www.instagram.com/o_soin_de_soi/" >
+                                    <BsInstagram className="inline text-dark-600 mr-2" />
+                                    Retrouvez moi sur Instagram
                                 </a>
                             </div>
                         </div>
