@@ -21,7 +21,9 @@ const MassagesCorps = () => {
                                 className="hidden lg:block"
                             />
                             <div className="bio-text  text-justify">
-                                Les massages proposés sont des massages bien-être aux huiles essentielles et mobilisant l’énergie Reiki. Ils sont destinés à soulager les douleurs, permettre le rééquilibrage des énergies et une détente profonde du corps et de l'esprit. Des mélanges d'huiles essentielles sont utilisés. Chaque massage est unique, et une invitation au voyage
+                                Les massages proposés sont des massages bien-être aux huiles essentielles et mobilisant l’énergie Reiki. 
+                                Ils visent à  permettre le rééquilibrage des énergies et une détente profonde du corps et de l'esprit. 
+                                Des mélanges d'huiles essentielles sont utilisés. Chaque massage est unique, et une invitation au voyage
                                 <br /><br />
                                 ✨ <b>Massage Harmonia</b> ✨<br /><br />
                                 Ce massage complet aux huiles essentielles invite à une reconnexion profonde entre le corps, l’esprit et l’âme.<br />
