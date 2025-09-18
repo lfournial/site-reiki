@@ -21,53 +21,38 @@ const MassagesCorps = () => {
                                 className="hidden lg:block"
                             />
                             <div className="bio-text  text-justify">
-                                Les massages proposés sont des massages bien-être et mobilisant l’énergie Reiki. Ils sont destinés à soulager les douleurs, permettre le rééquilibrage des énergies et une détente profonde du corps et de l'esprit. Des mélanges d'huiles essentielles sont utilisés.
-                                Chaque massage est unique, et une invitation au voyage.
+                                Les massages proposés sont des massages bien-être aux huiles essentielles et mobilisant l’énergie Reiki. Ils sont destinés à soulager les douleurs, permettre le rééquilibrage des énergies et une détente profonde du corps et de l'esprit. Des mélanges d'huiles essentielles sont utilisés. Chaque massage est unique, et une invitation au voyage
                                 <br /><br />
-                                <b>A la carte :</b>
+                                ✨ <b>Massage Harmonia</b> ✨<br /><br />
+                                Ce massage complet aux huiles essentielles invite à une reconnexion profonde entre le corps, l’esprit et l’âme.<br />
+                                Combiné au Reiki, il allie détente physique et rééquilibrage énergétique, pour apaiser les tensions, libérer le mental 
+                                et raviver la vitalité intérieure.<br /><br />
+                                Un massage doux et une invitation au voyage, où chaque geste devient une mélodie qui ré-installe la paix et la sérénité. 🌿💫
                                 <br /><br />
-                                Si vous recherchez un massage lent et profond, mais aussi doux et enveloppant,  alors le
-                                <span className="font-bold"> massage des 5 continents</span> - un petit bijou - est fait pour vous ;
-
-                                <div className="md:flex justify-center ">
-                                    <Link href="/massages#M5C">
-                                        <a target="_blank" rel="noopener noreferrer" className="underline">
-                                            &nbsp;En savoir plus
-                                        </a>
-                                    </Link>
-                                </div>
-                                <br />
-                                Si vous recherchez un massage biodynamique alliant le massage manuel, la baguette Kansa et l'énergétique avec une approche en 7 temps,  le
-                                <span className="font-bold"> Shinzu Body</span> est fait pour vous ;
-
-                                <div className="md:flex justify-center ">
-                                    <Link href="/massages#Shinzu">
-                                        <a target="_blank" rel="noopener noreferrer" className="underline">
-                                            &nbsp;En savoir plus
-                                        </a>
-                                    </Link>
-                                </div>
-                                <br />
-                                Si vous souhaitez un massage sans protocole, ou seul l’instant présent compte, optez plutôt
-                                pour le  <span className="font-bold"> massage intuitif Ukiyo</span> ;
-                                <div className="md:flex justify-center ">
-                                    <Link href="/massages#Ukiyo">
-                                        <a target="_blank" rel="noopener noreferrer" className="underline">
-                                            &nbsp;En savoir plus
-                                        </a>
-                                    </Link>
-                                </div>
-                                <br />
-                                Si vous ne souhaitez pas un massage de l’ensemble du corps, vous avez la possibilité de
-                                choisir un  <span className="font-bold"> massage énergétique du dos</span>
-                                <div className="md:flex justify-center ">
-                                    <Link href="/massages#MED">
-                                        <a target="_blank" rel="noopener noreferrer" className="underline">
-                                            &nbsp;En savoir plus
-                                        </a>
-                                    </Link>
-                                </div>
-                                <br />
+                                <u>Durée</u> : 1h30 environ - 90€.<br />
+                                <u>Forfait 3 massages</u> : 230€
+                                <br /><br />
+                                ✨  <b>Massage Résonance</b>✨
+                                <br /><br />
+                                Un massage unique qui combine les baguettes Kanza et l’énergie du Reiki pour un rééquilibrage profond du corps et de l’esprit.<br /><br />
+                                Grâce au contact subtil des baguettes, les tensions sont libérées, l’énergie circule librement et l’harmonie intérieure se rétablit. 
+                                Chaque geste est pensé pour apaiser le corps, calmer le mental et nourrir l’âme.<br /><br />
+                                Un moment de détente et de reconnexion profonde, où l’énergie circule avec fluidité pour vous offrir vitalité, 
+                                sérénité et bien-être durable. 🌿💫
+                                <br /><br />
+                                <u>Durée</u> : 1h30 environ - 90€.<br />
+                                <u>Forfait 3 massages</u> : 230€
+                                <br /><br />
+                                ✨  <b>Massage Flow</b>✨ 
+                                <br /><br />
+                                Vous manquez de temps ?<br /><br />
+                                Envie de découvrir un massage énergétique pour la première fois ? Ce massage est parfait comme initiation douce et efficace.
+                                Un massage guidé par l’intuition, où chaque geste s’adapte à vos besoins du moment.<br /><br />
+                                Il favorise la circulation de l’énergie, relâche les tensions et procure un profond sentiment de détente et de fluidité intérieure.
+                                Un véritable moment pour laisser le corps parler et se ressourcer. 🌿💫<br /><br />
+                                <u>Durée</u> : 1h environ - 80€.<br />
+                                <u>Forfait 3 massages</u> : 200€
+                                <br /><br />
                                 <b>A savoir :</b>
                                 <div>
                                     Les massages énergétiques sont contre indiqués dans les situations suivantes :

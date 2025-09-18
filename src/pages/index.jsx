@@ -9,7 +9,7 @@ import Preloader from "../components/Preloader";
 import Portfolios from "../components/Portfolios";
 import Reiki from "../components/Reiki";
 import MassagesCorps from "../components/MassagesCorps";
-import MassagesSonores from "../components/MassagesSonores";
+import CerclesFemmes from "../components/CerclesFemmes";
 import ReikiChildren from "../components/ReikiChildren";
 import FormationsReiki from "../components/FormationsReiki";
 
@@ -31,7 +31,7 @@ const Home = () => {
             <Reiki />
             <ReikiChildren />
             <MassagesCorps />
-            <MassagesSonores />
+            <CerclesFemmes />
             <FormationsReiki />
             <Services />
             <Contact />

@@ -9,12 +9,12 @@ const Services = () => {
         <section className="service-area relative pt-[80px] lg:pt-[100px] pb-[100px] lg:pb-[200px]" id="services">
             <div className="container">
                 <SectionTitle
-                    title="Prestations et tarifs"
+                    title="Tarifs des prestations individuelles"
                     className="lg:hidden"
                 />
                 <div className="mt-5 sm:mt-10 md:mt-0">
                     <SectionTitle
-                        title="Prestations et tarifs"
+                        title="Tarifs des prestations individuelles"
                         className="hidden lg:block"
                     />
 

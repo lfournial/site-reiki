@@ -4,7 +4,7 @@
     "title": "Reiki ",
     "desc": "Séance complète (durée 60mn) : 50€ <br/>Forfait 4 séances : 170€<br/>Séance à la demande (30mn) : 30€<br/>",
     "icon": "service-branding.png"
-  },
+  },     
   {
     "id": 2,
     "title": "Reiki Enfants",
@@ -13,34 +13,29 @@
   },
   {
     "id": 3,
-    "title": "Massage des 5 continents",
-    "desc": "La durée du soin est de 1h20 environ : 80€<br/>Forfait 3 massages : 200€<br/>",
-    "icon": "service-branding.png"
+    "title": "",
+    "desc": "",
+    "icon": ""
   },
   {
     "id": 4,
-    "title": "Shinzu Body",
-    "desc": "La durée est de 1h40 environ: 90€",
+    "title": "Massage Harmonia",
+    "desc": "Durée :  1h30 environ : 90€<br/>Forfait 3 massages : 230€<br/>",
     "icon": "service-branding.png"
-  },
-  {
+  }, 
+   {
     "id": 5,
-    "title": "Ukiyo",
-    "desc": "La durée du soin est de 60mn environ (prévoir 1h30): 80€",
+    "title": "Massage Résonance",
+    "desc": "LDurée : 1h30 environ : 90€<br/>Forfait 3 massages : 230€<br/>",
     "icon": "service-branding.png"
-  },
+  }, 
   {
     "id": 6,
-    "title": "Massage énergétique du dos",
-    "desc": "La durée du soin est de 40mn environ (prévoir 1h00): 45€",
+    "title": "Massage Flow",
+    "desc": "Durée : 60mn environ :  80€",
     "icon": "service-branding.png"
-  },
-  {
-    "id": 7,
-    "title": "Vapa Kaìa",
-    "desc": "La durée du soin est de 45mn environ (prévoir 1h15): 65€",
-    "icon": "service-branding.png"
-  },
+  }
+,
   {
     "id": 8,
     "title": "Cartes cadeau",
