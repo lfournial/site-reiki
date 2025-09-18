@@ -7,7 +7,7 @@ const FormationsReiki = () => {
         <section className="pt-[80px] lg:pt-[100px] pb-[60px] lg:pb-[125px]" id="formationsreiki">
             <div className="container">
                 <SectionTitle
-                    title="Les formations Reiki"
+                    title="Les stages Reiki"
                     className="lg:hidden"
                 />
                 <div className="md:grid grid-cols-12 items-center">
@@ -15,10 +15,21 @@ const FormationsReiki = () => {
                     <div className="col-span-8 sm:text-center md:text-left">
                         <div className="bio mt-5 sm:mt-10 md:mt-0">
                             <SectionTitle
-                                title="Les formations Reiki "
+                                title="Les stages Reiki "
                                 className="hidden lg:block"
                             />
                             <div className="bio-text  text-justify">
+                                <div class="flex items-center">
+                                <Image
+                                alt="Reiki"
+                                width={50}
+                                height={50}
+                                className="rounded-md"
+                                src={`/images/LogoMundo.png`}/>
+                                &nbsp;
+                                Les stages de Reiki sont dispensés en partenariat avec MundoReiki.
+                                </div>
+                                <br />
                                 <h1 className="text-2xl font-heading underline tracking-normal text-gray-700" >
                                     Reiki I
                                 </h1>
